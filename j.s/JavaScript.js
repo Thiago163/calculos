@@ -16,9 +16,11 @@ function criarInputs() {
     }
 
 
-     //Maior numero
+    do {
+
+      //Maior numero
   
-     if (vetor[0] >= vetor[1] && vetor[0] >= vetor[2] && vetor[0] >= vetor[3] && vetor[0] >= vetor[4]) {
+   if (vetor[0] >= vetor[1] && vetor[0] >= vetor[2] && vetor[0] >= vetor[3] && vetor[0] >= vetor[4]) {
       alert("Maior numero: " + vetor[0]);
     }
 
@@ -59,6 +61,8 @@ function criarInputs() {
      if (vetor[4] <= vetor[0] && vetor[4] <= vetor[2] && vetor[4] <= vetor[3] && vetor[4] <= vetor[1]) {
         alert("Menor numero: " + vetor[4]);
       }
+      
+    } while (i < 5);
   
 
     //Média
