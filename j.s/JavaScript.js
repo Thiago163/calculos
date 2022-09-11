@@ -15,6 +15,7 @@ function criarInputs() {
       vetor[i] = valor;
     }
 
+    //Maior e menor Número
 
     do {
 
