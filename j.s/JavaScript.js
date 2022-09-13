@@ -32,54 +32,6 @@ function criarInputs() {
       }
       
     } while (i < 1);
-
-   /* do {
-
-      //Maior numero
-  
-   if (vetor[0] >= vetor[1] && vetor[0] >= vetor[2] && vetor[0] >= vetor[3] && vetor[0] >= vetor[4]) {
-      alert("Maior numero: " + vetor[0]);
-    }
-
-   if (vetor[1] >= vetor[0] && vetor[1] >= vetor[2] && vetor[1] >= vetor[3] && vetor[1] >= vetor[4]) {
-      alert("Maior numero: " + vetor[1]);
-    }
-
-   if (vetor[2] >= vetor[0] && vetor[2] >= vetor[1] && vetor[2] >= vetor[3] && vetor[2] >= vetor[4]) {
-      alert("Maior numero: " + vetor[2]);
-    }
-
-   if (vetor[3] >= vetor[0] && vetor[3] >= vetor[2] && vetor[3] >= vetor[1] && vetor[3] >= vetor[4]) {
-      alert("Maior numero: " + vetor[3]);
-    }
-
-   if (vetor[4] >= vetor[0] && vetor[4] >= vetor[2] && vetor[4] >= vetor[3] && vetor[4] >= vetor[1]) {
-      alert("Maior numero: " + vetor[4]);
-    }
-
-      //Menor numero
-
-      if (vetor[0] <= vetor[1] && vetor[0] <= vetor[2] && vetor[0] <= vetor[3] && vetor[0] <= vetor[4]) {
-        alert("Menor numero: " + vetor[0]);
-      }
-  
-     if (vetor[1] <= vetor[0] && vetor[1] <= vetor[2] && vetor[1] <= vetor[3] && vetor[1] <= vetor[4]) {
-        alert("Menor numero: " + vetor[1]);
-      }
-  
-     if (vetor[2] <= vetor[0] && vetor[2] <= vetor[1] && vetor[2] <= vetor[3] && vetor[2] <= vetor[4]) {
-        alert("Menor numero: " + vetor[2]);
-      }
-  
-     if (vetor[3] <= vetor[0] && vetor[3] <= vetor[2] && vetor[3] <= vetor[1] && vetor[3] <= vetor[4]) {
-        alert("Menor numero: " + vetor[3]);
-      }
-  
-     if (vetor[4] <= vetor[0] && vetor[4] <= vetor[2] && vetor[4] <= vetor[3] && vetor[4] <= vetor[1]) {
-        alert("Menor numero: " + vetor[4]);
-      }
-      
-    } while (i < 5); */
   
 
     //Média
