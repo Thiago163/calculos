@@ -21,6 +21,22 @@ function criarInputs() {
 
       //Maior numero
   
+      for (var i = 0; i < 1; i++) {
+        alert(`Maior numero = ${Math.max(vetor[0],vetor[1],vetor[2],vetor[3],vetor[4])}`);
+      }
+
+      //Menor numero
+
+      for (var i = 0; i < 1; i++) {
+        alert(`Menor numero = ${Math.min(vetor[0],vetor[1],vetor[2],vetor[3],vetor[4])}`);
+      }
+      
+    } while (i < 1);
+
+   /* do {
+
+      //Maior numero
+  
    if (vetor[0] >= vetor[1] && vetor[0] >= vetor[2] && vetor[0] >= vetor[3] && vetor[0] >= vetor[4]) {
       alert("Maior numero: " + vetor[0]);
     }
@@ -63,7 +79,7 @@ function criarInputs() {
         alert("Menor numero: " + vetor[4]);
       }
       
-    } while (i < 5);
+    } while (i < 5); */
   
 
     //Média
