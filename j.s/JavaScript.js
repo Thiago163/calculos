@@ -47,9 +47,21 @@ function criarInputs() {
 
     for (var i = 0; i <= 10; i++) {
       divareaDeInputs.innerHTML += `<p>${vetor[0]} x ${i} = ${vetor[0]*i}</p>`;
+    }
+
+    for (var i = 0; i <= 10; i++) {
       divareaDeInputs.innerHTML += `<p>${vetor[1]} x ${i} = ${vetor[1]*i}</p>`;
+    }
+
+    for (var i = 0; i <= 10; i++) {
       divareaDeInputs.innerHTML += `<p>${vetor[2]} x ${i} = ${vetor[2]*i}</p>`;
+    }
+
+    for (var i = 0; i <= 10; i++) {
       divareaDeInputs.innerHTML += `<p>${vetor[3]} x ${i} = ${vetor[3]*i}</p>`;
+    }
+
+    for (var i = 0; i <= 10; i++) {
       divareaDeInputs.innerHTML += `<p>${vetor[4]} x ${i} = ${vetor[4]*i}</p>`;
     }
 
